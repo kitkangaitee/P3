@@ -1,0 +1,6 @@
+﻿Referrences
+
+https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md
+https://discussions.udacity.com/c/nd002-p3-data-wrangling/sql
+http://stackoverflow.com/questions/tagged/python
+https://docs.python.org/2/
